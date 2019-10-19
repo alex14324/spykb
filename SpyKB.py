@@ -89,10 +89,8 @@ while True:
 def info():
 
 	print bcolors.BOLD+bcolors.RED+"\nThanks for trying my tool, do not forget to search me on my social networks"+bcolors.ENDC+bcolors.ENDC
-	print "\033[1;36m● Twitter: @Sh4Rk_0\033[1;m"
-	print bcolors.BLUE+"● Facebook: Hacking Pills"+bcolors.ENDC
-	print bcolors.GREEN+"● Blog: hackingpills.blogspot.com"+bcolors.ENDC
-	print bcolors.BOLD+bcolors.RED+"● YouTube: HackingPills\n"+bcolors.ENDC+bcolors.ENDC
+	print "\033[1;36m● Twitter: @Alex_14324\033[1;m"
+	print bcolors.BOLD+bcolors.RED+"● YouTube: WhiteHat Hacks\n"+bcolors.ENDC+bcolors.ENDC
 
 
 
