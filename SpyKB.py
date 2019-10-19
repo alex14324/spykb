@@ -109,11 +109,11 @@ class bcolors:
 print '''
  \033[1;91m
 ┌═════════════════════════════════════════════════════════════════════════════┐
-█               Author: @Sh4Rk_0                                              █
+█              Author:@alex14324                                              █
 █                                                                             █
-█                       Site: https://hackingpills.blogspot.com               █
+█                                                                             █
 █                                                                             █ 
-█                             Copyright (C) 2018 Spykeyboard @Sh4rk_0         █
+█                           Copyright (C) 2019 Spykeyboard @alex14324         █
 └═════════════════════════════════════════════════════════════════════════════┘     \n \033[1;m      
 
 
